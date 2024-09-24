@@ -4,7 +4,7 @@
   "private": true,
   "description": "",
   "author": "",
-  "homepage": "./",
+  "homepage": "https://github.com/tnwls0592/shinhan_project.git",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -135,6 +135,7 @@
     "bundler": "^0.8.0",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
+    "gh-pages": "^6.1.1",
     "parcel": "^2.12.0"
   },
   "eslintConfig": {
